@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 """
-2021 9 27 Junsuke Yokoseki
+2021 9 27 YOKOSEKI
 =========================================
 Execute this program by following command.
 $ python GLCM.py
